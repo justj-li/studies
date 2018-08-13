@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/justj-li/Projects/funsets/src/test/scala/FunSetsSuite.scala:28:1: expected start of definition[0m
+[0m[[0m[31merror[0m] [0m[0mclass FunSetsSuite extends FunSuite {[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/justj-li/Projects/funsets/src/test/scala/FunSetsSuite.scala:30:17: . expected[0m
+[0m[[0m[31merror[0m] [0m[0m  import FunSets[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

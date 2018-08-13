@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mFunSetsSuite:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- contains is implemented[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- singletonSet(1) is a singleton[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- union contains all elements of each set[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- intersection contains only common elements[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- difference contains a relative complement[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- filter contains a subset of elements[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- forall tests whether a predicate is true on all elements[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- exists tests whether a predicate is true on some elements[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- map applies a function to all elements[0m[0m
