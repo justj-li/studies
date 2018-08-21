@@ -39,10 +39,12 @@ Finally, let's see if this renders html too:
 </dl>
 <img src="http://yuml.me/diagram/scruffy/usecase/(Register)>(confirm event)" >
 <img src="http://yuml.me/diagram/scruffy/usecase/[Source](message>[Dest]" >
+
 <div class=wsd wsd-style="modern-blue" ><pre>
 
 Alice->Bob: Authentication Request
 Bob-->Alice: Authentication Response
 
-</pre></div><script type="text/javascript" src="https://www.websequencediagrams.com/service.js"></script>
+<!-- </pre></div><script type="text/javascript" src="https://www.websequencediagrams.com/service.js"></script> -->
+</pre></div><script type="text/javascript" src="service.js"></script>
 </html>
