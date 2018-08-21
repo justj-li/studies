@@ -44,5 +44,5 @@ Finally, let's see if this renders html too:
 Alice->Bob: Authentication Request
 Bob-->Alice: Authentication Response
 
-</pre></div><script type="text/javascript" src="http://www.websequencediagrams.com/service.js"></script>
+</pre></div><script type="text/javascript" src="https://www.websequencediagrams.com/service.js"></script>
 </html>
