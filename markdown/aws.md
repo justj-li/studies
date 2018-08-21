@@ -30,6 +30,8 @@ $ aws s3 cp myvideo.mp4 s3://mybucket/
 Finally, let's see if this renders html too:
 
 <html>
+<head></head>
+<body>
 <dl>
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
@@ -40,11 +42,10 @@ Finally, let's see if this renders html too:
 <img src="http://yuml.me/diagram/scruffy/usecase/(Register)>(confirm event)" >
 <img src="http://yuml.me/diagram/scruffy/usecase/[Source](message>[Dest]" >
 
-<div class=wsd ><pre>
-
+<div class=wsd><pre>
 Alice->Bob: Authentication Request
 Bob-->Alice: Authentication Response
-
-<!-- </pre></div><script type="text/javascript" src="https://www.websequencediagrams.com/service.js"></script> -->
-</pre></div><script type="text/javascript" src="service.js"></script>
+</pre></div><script type="text/javascript" src="https://www.websequencediagrams.com/service.js"></script>
+<!-- </pre></div><script type="text/javascript" src="service.js"></script> -->
+</body>
 </html>
