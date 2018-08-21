@@ -24,8 +24,15 @@ Default output format [None]: <Enter>
 ## Example
 To upload a file to AWS S3:
 
-```bash
+```shell
 $ aws s3 cp myvideo.mp4 s3://mybucket/
 ```
 Finally, let's see if this renders html too:
 
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
