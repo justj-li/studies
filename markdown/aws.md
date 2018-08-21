@@ -29,6 +29,7 @@ $ aws s3 cp myvideo.mp4 s3://mybucket/
 ```
 Finally, let's see if this renders html too:
 
+<html>
 <dl>
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
@@ -36,3 +37,5 @@ Finally, let's see if this renders html too:
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
+<img src="http://yuml.me/diagram/scruffy/usecase/(Register)>(Confirm Registration)" >
+</html>
