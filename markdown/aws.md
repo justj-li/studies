@@ -38,4 +38,5 @@ Finally, let's see if this renders html too:
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 <img src="http://yuml.me/diagram/scruffy/usecase/(Register)>(confirm event)" >
+<img src="http://yuml.me/diagram/scruffy/usecase/[Source](message>[Dest]" >
 </html>
