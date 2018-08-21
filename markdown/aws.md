@@ -40,7 +40,7 @@ Finally, let's see if this renders html too:
 <img src="http://yuml.me/diagram/scruffy/usecase/(Register)>(confirm event)" >
 <img src="http://yuml.me/diagram/scruffy/usecase/[Source](message>[Dest]" >
 
-<div class=wsd wsd-style="modern-blue" ><pre>
+<div class=wsd ><pre>
 
 Alice->Bob: Authentication Request
 Bob-->Alice: Authentication Response
