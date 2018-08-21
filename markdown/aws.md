@@ -37,5 +37,5 @@ Finally, let's see if this renders html too:
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
-<img src="http://yuml.me/diagram/scruffy/usecase/(Register)>(Confirm Registration)" >
+<img src="http://yuml.me/diagram/scruffy/usecase/(Register)>(confirm event)" >
 </html>
