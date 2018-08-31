@@ -22,3 +22,6 @@ exit
 test
 exit
 console
+import com.twitter.scalding._
+console
+exit
