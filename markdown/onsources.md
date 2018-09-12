@@ -1,4 +1,4 @@
-# DWH Tasks: Dataa
+# DWH Tasks: Data
 # (...in progress...)
 Every problem in the [application domain of LiveIntent](scheme://CPHplaybook/terms/#programmatic-advertising) generates a coding task upon LiveIntent's data warehouse (DWH).
 
